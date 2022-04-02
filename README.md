@@ -1,9 +1,13 @@
 <h1> Grogu voice-activated virtual assistant</h1>
 <p>This is a virtual assistant created using python</p>
- 
- <p>In this project directory, you can run:</p>
-   
-    <p>Libraries used are</p>
+
+<h4>Advise to run program on a venv</h4>
+<p>It is advised that you create a venv to run this script.</p>
+<p>creating a Virtual enviroment</p>
+<code>c:\>python -m venv c:\path\to\myenv</code>
+<p> Activating venv<p> 
+ <code>.\venv\Scripts\activate</code>
+ <p>In this project directory, you need to install the following modules:</p>
   <ul>
     <li>pyttsx3 module will enable the text-to-speech</li>
     <code>pip install pyttsx3</code>
