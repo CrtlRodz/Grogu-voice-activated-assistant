@@ -1,0 +1,9 @@
+pyttsx3
+speech_recognition
+webbrowser
+pywhatkit
+datetime
+os
+yfinance
+wikipedia
+pyjokes
